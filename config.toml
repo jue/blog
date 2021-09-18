@@ -1,5 +1,5 @@
-baseURL = "https://blog.isayme.org/"
-languageCode = "en-us"
-title = "BLOG - ISAYME"
+baseURL = "https://blog.xiangjianfeng.com/"
+languageCode = ""
+title = "XiangJianfeng"
 theme = "harbor"
 summaryLength = 1
